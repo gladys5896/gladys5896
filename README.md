@@ -20,20 +20,28 @@ Actualmente estoy enfocada en expandir mis habilidades hacia el desarrollo de vi
 
 ## 🧠 Habilidades
 
-### 💻 Lenguajes y Tecnologías
+### 💻 Hard Skills
 - Python  
-- HTML  
-- CSS  
-- JavaScript  
-- Git & GitHub  
+- HTML, CSS, JavaScript  
+- Git & GitHub ( Vrrsionado y control de código)
+- Unity (en formación)  
+- Salesforce (Ranger | Agentblazer Champion)
+
+  
+### 🤝 Soft Skills
+- Resolución de problemas  
+- Trabajo en equipo  
+- Liderazgo  
+- Comunicación efectiva  
+- Gestión del tiempo  
+- Adaptabilidad
+  
+---
 
 ### 🎮 Desarrollo & Herramientas
 - Unity (en formación)  
 - Desarrollo de videojuegos (conceptos básicos)  
 - Versionado y control de código  
-
-### ☁️ Plataformas
-- Salesforce (Ranger | Agentblazer Champion)  
 
 ---
 
