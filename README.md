@@ -74,9 +74,9 @@ Actualmente estoy enfocada en:
 
 ## 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gladys5896&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gladys5896&layout=compact)
 
 ---
 
