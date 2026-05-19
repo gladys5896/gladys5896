@@ -1,47 +1,37 @@
 # 👋 ¡Hola! Soy Estela G. Castro  
 
-🎮 Desarrolladora en formación | 💻 Python & Frontend | 🚀 Explorando Unity y Salesforce  
+🎮 Desarrolladora en formación | 💻 Python & Frontend | ☁️ Salesforce Ranger & Agentblazer Champion | 🚀 Explorando Unity  
 
-Me encuentro formándome en el mundo del desarrollo de software, con experiencia en Python y desarrollo web.  
-Actualmente estoy enfocada en expandir mis habilidades hacia el desarrollo de videojuegos y plataformas como Salesforce.  
+Me encuentro formándome en el mundo del desarrollo de software, combinando la ingeniería, la programación web y de escritorio, y la Inteligencia Artificial. Cuento con una sólida base en el ecosistema Salesforce, experiencia en Python y desarrollo frontend, y actualmente estoy expandiendo mis habilidades hacia el diseño y desarrollo de videojuegos.
 
 ---
 
 ## 🚀 Sobre mí
 
 - 🎓 Estudiante de Ingeniería en Informática  
+- ☁️ Salesforce Ranger & Agentblazer Champion  
 - 🐍 Desarrolladora en Python  
 - 🌐 Formación en Frontend (HTML, CSS, JavaScript)  
-- 🎮 Estudiando desarrollo de videojuegos con Unity  
-- ☁️ Salesforce Ranger & Agentblazer Champion  
 - 🤖 Formación en Inteligencia Artificial (UNLaM)  
+- 🎮 Estudiando desarrollo de videojuegos con Unity  
 
 ---
 
 ## 🧠 Habilidades
 
 ### 💻 Hard Skills
-- Python  
-- HTML, CSS, JavaScript  
-- Git & GitHub ( Vrrsionado y control de código)
-- Unity (en formación)  
-- Salesforce (Ranger | Agentblazer Champion)
+- **Lenguajes & Web:** Python, HTML5, CSS3, JavaScript (Vanilla)
+- **Ecosistema Salesforce:** Administración, configuración y herramientas de la plataforma (Ranger)
+- **Herramientas & Control de Versiones:** Git & GitHub (Versionado y control de código)
+- **Videojuegos:** Unity (en formación)  
 
-  
 ### 🤝 Soft Skills
 - Resolución de problemas  
 - Trabajo en equipo  
 - Liderazgo  
 - Comunicación efectiva  
 - Gestión del tiempo  
-- Adaptabilidad
-  
----
-
-### 🎮 Desarrollo & Herramientas
-- Unity (en formación)  
-- Desarrollo de videojuegos (conceptos básicos)  
-- Versionado y control de código  
+- Adaptabilidad  
 
 ---
 
@@ -50,33 +40,30 @@ Actualmente estoy enfocada en expandir mis habilidades hacia el desarrollo de vi
 Actualmente estoy enfocada en:
 
 - 🎮 Desarrollo de videojuegos con Unity  
-- 💻 Creación de proyectos web  
+- 💻 Creación de proyectos web interactivos  
 - 🐍 Automatización y desarrollo con Python  
-- ☁️ Profundizar en el ecosistema Salesforce  
-- 🚀 Participación en competencias y desafíos de programación  
+- ☁️ Profundizar en el ecosistema avanzado de Salesforce  
+- 🚀 Participación activa en competencias y desafíos de programación  
 
 ---
 
 ## 🏆 Experiencia destacada
 
-- 🛍️ Proyecto e-commerce: **Infinity**  
-  Desarrollo de una página web de artículos de computación  
-  (incluye distintas versiones para práctica de Git)
+- 🛍️ **Proyecto E-commerce: Infinity**  
+  Desarrollo de una plataforma web de artículos de computación (implementando lógica de carrito de compras y buenas prácticas de versionado con Git).
 
-- 🎮 Participación en Game Jams  
-  Desarrollo de juegos en entornos colaborativos y con tiempo limitado  
+- 🎮 **Participación en Game Jams**  
+  Desarrollo de prototipos de videojuegos en entornos colaborativos, bajo presión y con tiempo limitado.
 
-- 💻 Programación competitiva  
-  - Participante en **Codificadas** (Latinoamérica)  
-  - Participante en **CodeVita** (competencia global)  
-  - Inscripta en la próxima edición de Codificadas  
+- 💻 **Programación Competitiva**  
+  - Participante en **Codificadas** (Latinoamérica) e inscripta en la próxima edición.  
+  - Participante en **CodeVita** (competencia global de programación).  
 
 ---
 
 ## 📫 Contacto
 
-- 🌐 Linktree: https://linktr.ee/Estela.G.Castro
-- 💼 LinkedIn: https://linkedin.com/in/estela-gladys-castro
+- 🌐 Mis redes y proyectos: [Linktree](https://linktr.ee/Estela.G.Castro)
 
 ---
 
@@ -90,5 +77,4 @@ Actualmente estoy enfocada en:
 
 ## ✨ Un poco más sobre mí
 
-Me interesa crear soluciones tecnológicas combinando lógica, creatividad y experiencia de usuario.  
-Disfruto tanto del desarrollo web como del desarrollo de videojuegos, y busco seguir creciendo profesionalmente en el mundo IT 🚀
+Me interesa crear soluciones tecnológicas combinando lógica, creatividad y experiencia de usuario. Disfruto del desafío que propone resolver problemas lógicos en competencias tanto como plasmar ideas en un lienzo web o en un motor de videojuegos. ¡Siempre lista para seguir creciendo profesionalmente en el mundo IT! 🚀
